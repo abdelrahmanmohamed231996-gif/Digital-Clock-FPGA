@@ -1,4 +1,5 @@
 # ⏱️ Digital Clock on 7-Segment Display (FPGA - DE10-Standard)
+![Block Diagram](docs/block_diagram.png)
 
 مشروع **Digital Clock** بيتصمم بالكامل بلغة **Verilog HDL** ويتنفذ على **DE10-Standard FPGA Board** (Cyclone V)، بيعرض الوقت (ساعات : دقايق : ثواني) على 6 شاشات **7-Segment**.
 
